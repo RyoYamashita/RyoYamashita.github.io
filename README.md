@@ -1,1 +1,0 @@
-# RyoYamashita.github.io
