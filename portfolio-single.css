@@ -37,6 +37,7 @@ scroll-behavior: smooth; /*only for chrome*/
 font-family: 'adriane', Georgia, serif;
 font-family: 'Spectral', serif;
 font-style: oblique;
+overflow-x: hidden;
 }
 
 div {
