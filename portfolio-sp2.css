@@ -286,6 +286,7 @@ display: inline-block;
   color: #fbfbfb;
 }
 #copyright{
+  display:none;
   color: #fbfbfb;
   position: fixed;
   bottom: 20px;
